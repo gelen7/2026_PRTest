@@ -1,1 +1,6 @@
 # 2026_PRTest
+
+## PR 사용법
+   #pull requset 란 ?...
+   #github에서 브랜치를 사용하는 방법으로...
+   #pr 이슈를 생성해서 .
